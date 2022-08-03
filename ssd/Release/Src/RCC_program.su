@@ -1,0 +1,5 @@
+../Src/RCC_program.c:29:6:RCC_EnableHSI	0	static
+../Src/RCC_program.c:37:6:RCC_EnableHSE	0	static
+../Src/RCC_program.c:17:6:RCC_voidSysClockInit	0	static
+../Src/RCC_program.c:48:6:RCC_voidEnablePerClk	0	static
+../Src/RCC_program.c:64:6:RCC_voidDisablePerClk	0	static

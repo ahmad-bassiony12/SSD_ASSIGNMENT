@@ -1,0 +1,2 @@
+../Src/main.c:28:6:SmallDelay	16	static,ignoring_inline_asm
+../Src/main.c:39:5:main	32	static
